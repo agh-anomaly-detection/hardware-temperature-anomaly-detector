@@ -16,7 +16,7 @@
 
 ### How to fetch data for training
 
-The anomaly detection needs enought temperature and CPU correlation data to train the models properly. The easiest way to collect data is to use **Prometheus** and **Node Exporter** on Raspberry PI, as these tools collect all necessary data.
+The anomaly detection needs enough temperature and CPU correlation data to train the models properly. The easiest way to collect data is to use **Prometheus** and **Node Exporter** on Raspberry PI, as these tools collect all necessary data.
 For fetching data from Prometheus use prepared script:
 
 ```
