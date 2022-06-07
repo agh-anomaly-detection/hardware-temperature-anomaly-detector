@@ -14,7 +14,7 @@
   as a series of `gauge` measurements as follows `node_fan_anomaly{model="here goes model name"} 1/0` where `1/0` is either
   `1` for an anomaly and `0` for a normal measurement
 
-### Hot to fetch data for training
+### How to fetch data for training
 
 The anomaly detection needs enought temperature and CPU correlation data to train the models properly. The easiest way to collect data is to use **Prometheus** and **Node Exporter** on Raspberry PI, as these tools collect all necessary data.
 For fetching data from Prometheus use prepared script:
