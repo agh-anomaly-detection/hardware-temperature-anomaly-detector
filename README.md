@@ -69,4 +69,8 @@ that you correctly set up the necessary paths.
 
 ### Overheating anomaly detection
 
+https://user-images.githubusercontent.com/25308982/172485010-3422a235-ea95-488a-b6a6-dbf2eeee39e7.mp4
+
 ### Restoring to normal work params
+
+https://user-images.githubusercontent.com/25308982/172485038-eea38504-24da-4631-883f-5f58f82f7a56.mp4
