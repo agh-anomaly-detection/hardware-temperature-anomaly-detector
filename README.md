@@ -12,9 +12,17 @@
   as a series of `gauge` measurements as follows `node_fan_anomaly{model="here goes model name"} 1/0` where `1/0` is either
   `1` for an anomaly and `0` for a normal measurement
     
+
+## How to generate model
+To run the script that generates Gaussian Mixture model just use:
+```sh
+python models_generation/gaussian_mixture.py
+```
 ## How to run
 To run the script just use
-`python3 main.py`
+```sh
+python3 main.py
+```
 
 *NOTE*
 The script can take 2 environmental variables:
